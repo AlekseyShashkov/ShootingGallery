@@ -40,7 +40,7 @@
 |Purpose|File|
 |:---------|:---------|
 |Обработка команд игрока|![PlayerInput.cs](https://github.com/AlekseyShashkov/ShootingGalleryTMS/blob/main/Assets/_Scripts/Input/PlayerInput.cs)|
-|Управлени орудием|![MortarModifier.cs](https://github.com/AlekseyShashkov/ShootingGalleryTMS/blob/main/Assets/_Scripts/Cannon/MortarModifier.cs)|
+|Управление орудием|![MortarModifier.cs](https://github.com/AlekseyShashkov/ShootingGalleryTMS/blob/main/Assets/_Scripts/Cannon/MortarModifier.cs)|
 |Оружейный снаряд|![Cannonball.cs](https://github.com/AlekseyShashkov/ShootingGalleryTMS/blob/main/Assets/_Scripts/Projectile/Cannonball.cs)|
 |Магазин снарядов (object pool)|![ProjectileStore.cs](https://github.com/AlekseyShashkov/ShootingGalleryTMS/blob/main/Assets/_Scripts/Projectile/ProjectileStore.cs)|
 |Мишень|![Cube.cs](https://github.com/AlekseyShashkov/ShootingGalleryTMS/blob/main/Assets/_Scripts/Target/Cube.cs)|
